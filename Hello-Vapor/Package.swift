@@ -2,9 +2,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "Hello",
+    name: "Hello-Vapor",
     products: [
-        .library(name: "Hello", targets: ["App"]),
+        .library(name: "Hello-Vapor", targets: ["App"]),
     ],
     dependencies: [
         // 💧 A server-side Swift web framework.

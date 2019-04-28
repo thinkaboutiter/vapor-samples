@@ -1,4 +1,0 @@
-module CCryptoOpenSSL {
-    umbrella "/Users/boyankov/_bbRoot/01-projects/Github/vapor-samples/hello-world-sample/Hello/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
-    export *
-}
