@@ -1,6 +1,7 @@
 Packages
 .build
 xcuserdata
-*.xcodeproj
+# *.xcodeproj
+*.xcodeproj/project.pbxproj
 DerivedData/
 .DS_Store
